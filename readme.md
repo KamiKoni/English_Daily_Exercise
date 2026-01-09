@@ -4,8 +4,8 @@
 - [Scrum Master – Opening](#scrum-master-didier-diaz)
 - [Product Owner](#product-owner-andres-botina)
 - [Stakeholder](#stakeholder-jorge-hurtado)
-- [Developer](#developer-argenís-flores)
-- [Developer](#developer-valentina-bolívar)
+- [Developer](#Developer-Argenis-Flores)
+- [Developer](#Developer-Valentina-Bolivar)
 - [Scrum Master – Closing](#scrum-master-closing)
 - [Credits](#integrants)
 
